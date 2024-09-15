@@ -1,4 +1,4 @@
-# Polymorphism
+# polymorphism
 
 Файл figures.py содержит классы Rectangle, Square, Circle.
 
